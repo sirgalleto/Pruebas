@@ -49,5 +49,6 @@
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     <access origin="http://127.0.0.1*" />
     <acces origin="http://biblioteca.bool-inc.com"/>
+    <acces origin="http://bool-inc.com" subdomains="true"/>
     <content src="index.html" />
 </widget>
